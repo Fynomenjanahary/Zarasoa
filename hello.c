@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main(){
-	printf("Hello Word!\n");
+	printf("Hello Word!\nGood Morning\n");
 	return 0;
 }
